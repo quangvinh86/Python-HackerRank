@@ -12,3 +12,14 @@ Full: [1_Introduction_Challenges](1_Introduction_Challenges/Docs/1_Introduction_
 
 Jupyter notebook (download): [1_Introduction_Challenges](/1_Introduction_Challenges/Docs/1_Introduction_Challenges_JupyterNotebook.ipynb)
 
+## [Phần 2: Basic Data Types Challenges](https://www.hackerrank.com/domains/python/py-basic-data-types)
+(đã hoàn thành)
+
+Đề bài: [Basic Data Types Challenges](2-Basic-Data-Types-Challenges/Docs/2-Basic-Data-Types-Challenges.md)
+
+Code: [Basic Data Types Challenges](/2-Basic-Data-Types-Challenges/Code/)
+
+Full: [Basic Data Types Challenges](2-Basic-Data-Types-Challenges/Docs/2-Basic-Data-Types-Challenges-Jupyter.md)
+
+Jupyter notebook (download): [Basic Data Types Challenges](2-Basic-Data-Types-Challenges/Docs/2-Basic-Data-Types-Challenges-Jupyter.md.ipynb)
+
