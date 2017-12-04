@@ -35,3 +35,14 @@ Full: [Strings Challenges](3-Strings-Challenges/Docs/3-Strings-Challenges-Jupyte
 
 Jupyter notebook (download): [Strings Challenges](3-Strings-Challenges/Docs/3-Strings-Challenges.ipynb)
 
+## [Phần 5: Math Challenges](https://www.hackerrank.com/domains/python/py-Math)
+(đã hoàn thành)
+
+Đề bài: [Math Challenges](5-Math-Challenges/Docs/5-Math-Challenges.md)
+
+Code: [Math Challenges](/5-Math-Challenges/Code/)
+
+<!-- Full: [Math Challenges](5-Math-Challenges/Docs/5-Math-Challenges-Jupyter-notebook.md) -->
+
+<!-- Jupyter notebook (download): [Math Challenges](5-Math-Challenges/Docs/5-Math-Challenges.ipynb) -->
+
