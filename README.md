@@ -21,5 +21,17 @@ Code: [Basic Data Types Challenges](/2-Basic-Data-Types-Challenges/Code/)
 
 Full: [Basic Data Types Challenges](2-Basic-Data-Types-Challenges/Docs/2-Basic-Data-Types-Challenges-Jupyter.md)
 
-Jupyter notebook (download): [Basic Data Types Challenges](2-Basic-Data-Types-Challenges/Docs/2-Basic-Data-Types-Challenges-Jupyter.md.ipynb)
+Jupyter notebook (download): [Basic Data Types Challenges](2-Basic-Data-Types-Challenges/Docs/2-Basic-Data-Types-Challenges-Jupyter.ipynb)
+
+
+## [Phần 3: String Challenges](https://www.hackerrank.com/domains/python/py-strings)
+(đã hoàn thành)
+
+Đề bài: [Strings Challenges](3-Strings-Challenges/Docs/3-Strings-Challenges.md)
+
+Code: [Strings Challenges](/3-Strings-Challenges/Code/)
+
+Full: [Strings Challenges](3-Strings-Challenges/Docs/3-Strings-Challenges-Jupyter-notebook.md)
+
+Jupyter notebook (download): [Strings Challenges](3-Strings-Challenges/Docs/3-Strings-Challenges.ipynb)
 
