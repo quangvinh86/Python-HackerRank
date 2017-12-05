@@ -42,7 +42,7 @@ Jupyter notebook (download): [Strings Challenges](3-Strings-Challenges/Docs/3-St
 
 Code: [Math Challenges](/5-Math-Challenges/Code/)
 
-<!-- Full: [Math Challenges](5-Math-Challenges/Docs/5-Math-Challenges-Jupyter-notebook.md) -->
+Full: [Math Challenges](5-Math-Challenges/Docs/5-Math-Challenges-Jupyter-notebook.md)
 
-<!-- Jupyter notebook (download): [Math Challenges](5-Math-Challenges/Docs/5-Math-Challenges.ipynb) -->
+Jupyter notebook (download): [Math Challenges](5-Math-Challenges/Docs/5-Math-Challenges.ipynb)
 
