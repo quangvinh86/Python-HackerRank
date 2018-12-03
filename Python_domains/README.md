@@ -1,16 +1,16 @@
 # Python-HackerRank
-Giải các bài toán trên hackerrank.com bằng ngôn ngữ lập trình Python
+Giải các bài toán trên hackerrank.com kèm đề bài và một số giải thích bằng tiếng Việt
 
 ## [Phần 1: Introduction Challenges](https://www.hackerrank.com/domains/python/py-introduction)
 (đã hoàn thành)
 
-Đề bài: [1_Introduction_Challenges](Python_domains/1_Introduction_Challenges/Docs/1_Introduction_Challenges.md)
+Đề bài: [1_Introduction_Challenges](1_Introduction_Challenges/Docs/1_Introduction_Challenges.md)
 
-Code: [1_Introduction_Challenges](/Python_domains/1_Introduction_Challenges/Code/)
+Code: [1_Introduction_Challenges](/1_Introduction_Challenges/Code/)
 
-Full: [1_Introduction_Challenges](/Python_domains1_Introduction_Challenges/Docs/1_Introduction_Challenges_JupyterNotebook.md)
+Full: [1_Introduction_Challenges](1_Introduction_Challenges/Docs/1_Introduction_Challenges_JupyterNotebook.md)
 
-Jupyter notebook (download): [1_Introduction_Challenges](/Python_domains/1_Introduction_Challenges/Docs/1_Introduction_Challenges_JupyterNotebook.ipynb)
+Jupyter notebook (download): [1_Introduction_Challenges](/1_Introduction_Challenges/Docs/1_Introduction_Challenges_JupyterNotebook.ipynb)
 
 ## [Phần 2: Basic Data Types Challenges](https://www.hackerrank.com/domains/python/py-basic-data-types)
 (đã hoàn thành)
